@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
-  "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "CONTRACT_ADDRESS": "0x0463d737eC5f8ACe538711df8775AE20a93De092",
+  "SCAN_LINK": "https://ftmscan.com/token/0x0463d737ec5f8ace538711df8775ae20a93de092",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "FANTOM OPERA",
+    "SYMBOL": "FTM",
+    "ID": 250
   },
-  "NFT_NAME": "Nerdy Coder Clones",
-  "SYMBOL": "NCC",
-  "MAX_SUPPLY": 1000,
-  "WEI_COST": 75000000000000000,
-  "DISPLAY_COST": 0.075,
-  "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "NFT_NAME": "$CONKRAFFLETICKETS",
+  "SYMBOL": "$CONKRaffleTicket",
+  "MAX_SUPPLY": 4200,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 20,
+  "GAS_LIMIT": 655000,
+  "MARKETPLACE": "PaintSwap",
+  "MARKETPLACE_LINK": "https://paintswap.finance/marketplace/fantom/collections/%24conk-celebration-raffle",
   "SHOW_BACKGROUND": true
 }
